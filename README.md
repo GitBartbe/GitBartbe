@@ -12,8 +12,6 @@
 - ⚡ I love to play guitar 
 
 
-### Connect with me:
-
 
 
 
