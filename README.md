@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently mastering Typescript, Node and more... 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: master GraphQl
+- 🥅 2022 Goals: master Redux
 - ⚡ I love to play guitar 
 
 
