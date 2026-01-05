@@ -7,8 +7,8 @@ I enjoy creating scalable, maintainable web applications and improving user expe
 In my projects, I often handle everything from UI components and state management to connecting with APIs and optimizing performance.  
 
 ### Tech Stack
-- **Front-end:** Nuxt 3, Vue 3, TypeScript, HTML, CSS/Sass  
-- **Back-end:** Laravel, Node.js  
-- **Other tools:** Git, REST APIs, Postman, Vite  
+- **Front-end:** Nuxt 3, Vue 3, TypeScript, HTML, CSS/Sass, Tailwind
+- **Back-end:** Laravel 
+- **Other tools:** Git, REST APIs, Postman, Vite
 
 ⚡ I also love playing guitar and exploring new technologies in my free time.
