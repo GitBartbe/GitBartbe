@@ -1,4 +1,4 @@
-# Hi there, I'm Bartek 👋
+# Hi there, I'm Bartek 
 
 I'm a Front-end Developer currently working mainly with **Nuxt 3**, **TypeScript**, and **modern CSS**.  
 On the back-end side, I use **Laravel** and **Node.js** for building APIs and managing data.  
